@@ -26,8 +26,8 @@ window.sphereQueue = sphereQueue;
 // TX settings
 const RPC_URL = "https://node-2.seismicdev.net/rpc";
 const BLOCK_EXPLORER = "https://explorer-2.seismicdev.net/";
-const MIN_AMOUNT = 0.1; // Min Story
-const MAX_AMOUNT = 100000; // Max Story
+const MIN_AMOUNT = 0.1; // Min Seismic
+const MAX_AMOUNT = 100000; // Max Seismic
 const TPS_WINDOW = 30000; // 30 seconds
 
 // Sphere settings
